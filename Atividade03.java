@@ -32,9 +32,11 @@ public class Atividade03 {
         double porcfx05 = fx05/0.08;
         
         System.out.println(
-            "A porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas: "+porcfx01+"%");
+            "A porcentagem de pessoas na primeira faixa etária com relação"+ 
+            "ao total de pessoas: "+porcfx01+"%");
         System.out.println(
-            "A porcentagem de pessoas na ultima faixa etária com relação ao total de pessoas: "+porcfx05+"%");
+            "A porcentagem de pessoas na ultima faixa etária com relação "+
+            "ao total de pessoas: "+porcfx05+"%");
 
         entrada.close();
     }
