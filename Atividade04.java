@@ -13,5 +13,6 @@ public class Atividade04 {
             System.out.println(num + " x " + i + " = " + num*i);
         }
 
+        entrada.close();
     }
 }
