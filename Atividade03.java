@@ -37,7 +37,7 @@ public class Atividade03 {
         System.out.println(
             "A porcentagem de pessoas na ultima faixa etária com relação "+
             "ao total de pessoas: "+porcfx05+"%");
-
+            
         entrada.close();
     }
 }
